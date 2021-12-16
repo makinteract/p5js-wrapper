@@ -1,0 +1,14 @@
+{
+  "name": "p5js-wrapper",
+  "version": "1.0.0",
+  "description": "A simple wrapper for p5js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "p5.js"
+  ],
+  "author": "MAKinteract",
+  "license": "MIT"
+}
