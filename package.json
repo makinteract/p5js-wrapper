@@ -3,11 +3,15 @@
   "version": "1.0.0",
   "description": "A simple wrapper for p5js",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makinteract/p5js-wrapper"
   },
+  "scripts": {},
   "keywords": [
-    "p5.js"
+    "p5.js",
+    "processing",
+    "p5"
   ],
   "author": "MAKinteract",
   "license": "MIT"
