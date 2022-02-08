@@ -14,5 +14,8 @@
     "p5"
   ],
   "author": "MAKinteract",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "p5": "^1.4.1"
+  }
 }
