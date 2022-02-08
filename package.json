@@ -1,6 +1,6 @@
 {
   "name": "p5js-wrapper",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A simple wrapper for p5js",
   "main": "index.js",
   "repository": {
