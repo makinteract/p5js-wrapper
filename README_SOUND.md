@@ -1,5 +1,7 @@
 # p5 Sound
 
+** Currently not working correctly **
+
 You can add sound ([p5Sound library](https://p5js.org/reference/#/libraries/p5.sound)) but this currently an experimental feature of this wrapper. You should not encounter any issue with single sketches, but currently multiple sketches might create errors.
 
 Here an example code:
