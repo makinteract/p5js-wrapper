@@ -9,7 +9,7 @@ A simple wrapper for p5.js.
 ## Single sketch usage
 
 ```js
-import { sketch } from './p5js-wrapper';
+import { sketch } from 'p5js-wrapper';
 
 sketch.setup = function () {
   createCanvas(800, 600);
@@ -31,7 +31,7 @@ sketch.mousePressed = function () {
 ## Multi sketch usage
 
 ```js
-import { p5 } from './p5js-wrapper';
+import { p5 } from 'p5js-wrapper';
 
 let sketch1 = new p5((p) => {
   p.setup = () => {
@@ -65,3 +65,7 @@ let sketch2 = new p5((p) => {
 ```
 
 This sketch assumes that there are two divs available with id 'one' and 'two'.
+
+## Adding sound
+
+This is an [experimental feature](./README_SOUND.md).
