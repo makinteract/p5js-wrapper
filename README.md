@@ -65,3 +65,7 @@ let sketch2 = new p5((p) => {
 ```
 
 This sketch assumes that there are two divs available with id 'one' and 'two'.
+
+## Adding sound
+
+This is an [experimental feature](./README_SOUND.md).

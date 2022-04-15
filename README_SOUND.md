@@ -1,13 +1,13 @@
 # p5 Sound
 
-** Currently not working correctly **
+You can add sound ([p5Sound library](https://p5js.org/reference/#/libraries/p5.sound)) but this currently an experimental and optional feature of this wrapper. You should not encounter any issue with single sketches, but currently multiple sketches might create errors.
 
-You can add sound ([p5Sound library](https://p5js.org/reference/#/libraries/p5.sound)) but this currently an experimental feature of this wrapper. You should not encounter any issue with single sketches, but currently multiple sketches might create errors.
-
-Here an example code:
+Here how to use the sound library:
 
 ```js
-import { sketch } from 'p5js-wrapper/sound-sketch';
+import { sketch } from 'p5js-wrapper';
+import 'p5js-wrapper/sound';
+
 import mysound from './mysound.mp3';
 
 let soundEffect;
