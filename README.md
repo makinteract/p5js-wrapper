@@ -35,7 +35,7 @@ import { p5 } from 'p5js-wrapper';
 
 let sketch1 = new p5((p) => {
   p.setup = () => {
-    // canvas size is specified in the CSS file (size of div #one)
+    // You can also specify the canvas size in the CSS file (size of div #one)
     p.createCanvas(800, 600);
   };
 
@@ -51,7 +51,7 @@ let sketch1 = new p5((p) => {
 // Sketch2
 let sketch2 = new p5((p) => {
   p.setup = () => {
-    // canvas size is specified in the CSS file (size of div #two)
+    // You can also specify the canvas size in the CSS file (size of div #two)
     p.createCanvas(800, 600);
   };
 
