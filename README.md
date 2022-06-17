@@ -1,6 +1,7 @@
 # p5.js-wrapper
 
 A simple wrapper for p5.js.
+If you are looking for a template to start your code, you might be interested instead in the [p5.js-vite Starter Template](https://github.com/makinteract/p5js-vite).
 
 ## Installation
 
